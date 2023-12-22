@@ -1,0 +1,2 @@
+This version https://github.com/signon-project-wp3/slr-pipelineis based on commit 3515159367573f7801e460f97476ef693b2d0ccd
+of the repository https://github.com/signon-project-wp3/slr-pipeline
