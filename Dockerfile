@@ -35,5 +35,4 @@ USER root
 RUN chmod +x launch.sh
 USER signon
 
-# Launch the web service.
-ENTRYPOINT ./launch.sh
+CMD python3 -m app

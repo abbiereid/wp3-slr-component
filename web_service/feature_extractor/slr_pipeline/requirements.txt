@@ -1,4 +1,4 @@
-mediapipe==0.8.11
+mediapipe
 numpy==1.23.4
 opencv-contrib-python==4.6.0.66
 opencv-python==4.6.0.66
